@@ -14,7 +14,9 @@
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | /ə're/           | /ə'reɪ/              | \ə-ˈrā\                                  |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | /'ævətɑr/        | /'ævətɑː/            | \ˈa-və-ˌtär\                             |
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2) | /'æʒɚ/           | /'æʒə/               | \ˈa-zhər\                                |
+| babel[🔊](https://www.merriam-webster.com/dictionary/Babel?pronunciation&lang=en_us&dir=b&file=babel002) | /'bebəl/         | /'beibəl/            | \ˈbā-bəl, ˈba-\                          |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | /kæʃ/            | /kæʃ/                | \ˈkash\                                  |
+| content [🔊](https://www.merriam-webster.com/dictionary/content?pronunciation&lang=en_us&dir=c&file=conten03) [🔊](https://www.merriam-webster.com/dictionary/content?pronunciation&lang=en_us&dir=c&file=conten04) | /'kɑntɛnt/       | /kən'tent/           | \kən-ˈtent\  \ˈkän-ˌtent\                |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | /dɛk/            | /dek/                |                                          |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | /'dɑɪdʒɛst/      | /'dɑɪdʒest/          | \ˈdī-ˌjest\                              |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | /'dʒæŋɡo/        | /'dʒæŋɡəʊ/           |                                          |
