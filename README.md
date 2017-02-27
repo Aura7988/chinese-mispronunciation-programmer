@@ -1,6 +1,7 @@
 # chinese-mispronunciation-programmer
-[//]: # \[\(.\{2,20\}\)\]
-[//]: # \1
+```
+[comment]: [(.{2,20})] \1
+```
 
 ## 易误发音单词
 
