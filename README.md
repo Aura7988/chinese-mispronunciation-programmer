@@ -7,8 +7,8 @@
 | ---------------------------------------- | ---------------- | -------------------- | ---------------------------------------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | /'æksɛs/         | /'ækses/             | \ˈak-ˌses *also* ik-ˈses\                |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | /'æŋɡjəlɚ/       | /'æŋgjʊlə/           | \ˈaŋ-gyə-lər\                            |
-| AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | /ˈeˌdʒæks/       | /ˈeɪˌdʒæks/          | \ˈā-ˌjaks\                               |
-| Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | /əˈpæʃ/          | /əˈpæʃ/              | \ə-ˈpa-chē, *in sense 3* ə-ˈpash\        |
+| AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | /'eˌdʒæks/       | /'eɪˌdʒæks/          | \ˈā-ˌjaks\                               |
+| Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | /ə'pæʃ/          | /ə'pæʃ/              | \ə-ˈpa-chē, *in sense 3* ə-ˈpash\        |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | /æp/             | /æp/                 | \ˈap\                                    |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | /'ɑrkaɪv/        | /'ɑːkaɪv/            | \ˈär-ˌkīv\                               |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | /ə're/           | /ə'reɪ/              | \ə-ˈrā\                                  |
@@ -17,23 +17,23 @@
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | /kæʃ/            | /kæʃ/                | \ˈkash\                                  |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | /dɛk/            | /dek/                |                                          |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | /'dɑɪdʒɛst/      | /'dɑɪdʒest/          | \ˈdī-ˌjest\                              |
-| Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | /ˈdʒæŋɡo/        | /ˈdʒæŋɡəʊ/           |                                          |
+| Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | /'dʒæŋɡo/        | /'dʒæŋɡəʊ/           |                                          |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | /dɑk/            | /dɒk/                | \ˈdäk\                                   |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2) | /fə'sɑd/         | /fə'sɑːd/            | \fə-ˈsäd\                                |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | /ɡɪt/            | /ɡɪt/                | \ˈgit\                                   |
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) | /ɡnu/            | /ɡnu:/               |                                          |
-| GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | /ˈɡui/           | /ˈɡu:i:/             |                                          |
+| GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | /'ɡui/           | /'ɡu:i:/             |                                          |
 | height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=2) | /haɪt/           | /haɪt/               | \ˈhīt, ÷ˈhītth\                          |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | /'hɪdn/          | /'hɪdn/              | \ˈhi-dən\                                |
 | image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | /'ɪmɪdʒ/         | /'ɪmɪdʒ/             | \ˈi-mij\                                 |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | /'ɪntɪdʒɚ/       | /'ɪntɪdʒə/           | \ˈin-ti-jər\                             |
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | /'ɪʃu/           | /'ɪʃuː/              | \ˈi-(ˌ)shü, *chiefly Southern* ˈi-shə, *chiefly British* ˈis-(ˌ)yü\ |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | /'dʒɑvə/         | /'dʒɑːvə/            | \ˈja-və, ˈjä-, -vē\                      |
-| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | /'dʒe,pɛg/       | /'dʒeɪ,peɡ/          | \ˈjā-ˌpeg\                               |
+| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | /'dʒeˌpɛg/       | /'dʒeɪˌpeɡ/          | \ˈjā-ˌpeg\                               |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | /'lɪnəks/        | /'lɪnʌks/ /'laɪnʌks/ |                                          |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | /men/            | /meɪn/               | \ˈmān\                                   |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | /'mɑrdʒən/       | /'mɑːdʒɪn/           | \ˈmär-jən\                               |
-| maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | /ˈmevən/         | /'meɪv(ə)n/          | \ˈmā-vən\                                |
+| maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | /'mevən/         | /'meɪv(ə)n/          | \ˈmā-vən\                                |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2) | /'mɑdʒul/        | /'mɒdjuːl/           | \ˈmä-(ˌ)jül\                             |
 | nginx                                    | Engine X         | Engine X             |                                          |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | /nʌl/            | /nʌl/                | \ˈnəl\                                   |
@@ -46,7 +46,7 @@
 | San Jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=2) | /sænho'ze/       | /sænhəu'zeɪ/         | \ˌsan-(h)ō-ˈzā\                          |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | /sə'fɑrɪ/        | /sə'fɑːrɪ/           | \sə-ˈfär-ē, -ˈfa-rē\                     |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=2) | /skim/           | /skiːm/              | \ˈskēm\                                  |
-| sudo                                     | /'sudu/  /ˈsudo/ | /'suːduː/  /ˈsuːdəʊ/ |                                          |
+| sudo                                     | /'sudu/  /'sudo/ | /'suːduː/  /'suːdəʊ/ |                                          |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | /swit/           | /swiːt/              | \ˈswēt, *2d is also* ˈsüt\               |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | /'tɪpɪkəl/       | /'tɪpɪk(ə)l/         | \ˈti-pi-kəl\                             |
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | /ʊ'bʊntʊ/        | /ʊ'bʊntʊ/            |                                          |
@@ -55,7 +55,9 @@
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | /wɪtθ/           | /wɪdθ/               | \ˈwidth, ˈwitth\                         |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | /'ju'tjub/       | /'juː'tjuːb/         |                                          |
 
-注：美音KK音标和英音DJ音标主要来自有道词典和欧路词典，美音韦氏音标来自Merriam Webster。其实，英音DJ音标采用新标准。发音暂时使用有道词典美音。
+注1：美音KK音标和英音DJ音标主要来自有道词典和欧路词典，美音韦氏音标来自Merriam Webster。其中，英音DJ音标采用新标准。
+注2：发音暂时使用有道词典美音。
+注3：美音KK音标和英音DJ音标中，重音符使用 `'`，次重音符使用 `ˌ`；美音韦氏音标中，重音符使用 `ˈ`，次重音符使用 `ˌ`。
 
 ## 补充
 
@@ -64,11 +66,10 @@
 
 ## 待完成
 
-1. 部分标点还不统一（如重音符），后续会修正。
-2. 发音出处后续可能会调整到 Merriam Webster，或者英美发音都保留。
-3. 后续会补充三种音标的集合和发音规则以及三种音标的大概对应关系。
-4. 后续可能考虑迁移到 org mode 的格式。
-5. 补充参考链接。
+1. 发音出处后续可能会调整到 Merriam Webster，或者英美发音都保留。
+2. 后续会补充三种音标的集合和发音规则以及三种音标的大概对应关系。
+3. 后续可能考虑迁移到 org mode 的格式。
+4. 补充参考链接。
 
 ## 网络词典
 
