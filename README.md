@@ -42,7 +42,7 @@
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | /pə'ræmɪtɚ/  | / pə'ræmɪtə/         | \pə-ˈram-ə-tər\                          |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | / 'pʌtɪ/     | / 'pʌtɪ/             | \ˈpə-tē\                                 |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | /'kwɪri/     | /'kwɪəri/            | \ˈkwir-ē, ˈkwer-\                        |
-| resolve                                  | /rɪ'zɑlv/    | /rɪ'zɒlv/            | \ri-ˈzälv, -ˈzȯlv *also* -ˈzäv *or* -ˈzȯv\ |
+| resolve[🔊](http://dict.youdao.com/dictvoice?audio=resolve&type=2) | /rɪ'zɑlv/    | /rɪ'zɒlv/            | \ri-ˈzälv, -ˈzȯlv *also* -ˈzäv *or* -ˈzȯv\ |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | /'rɛtənə/    | /'retɪnə/            | \ˈre-tə-nə, ˈret-nə\                     |
 | San Jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=2) |              | /sænhəu'zei/ todo    |                                          |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | /sə'fɑrɪ/    | /sə'fɑːrɪ/           | \sə-ˈfär-ē, -ˈfa-rē\                     |
