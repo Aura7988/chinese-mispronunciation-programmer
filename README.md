@@ -84,4 +84,5 @@
 
 1. [KK音标 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/KK%E9%9F%B3%E6%A8%99)
 2. [DJ音标 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/DJ%E9%9F%B3%E6%A8%99)
-3. [在线英语词典哪个比较好？ - 知乎](https://www.zhihu.com/question/19707759)
+3. [IT 圈里有哪些经常被读错的词？ - 知乎](https://www.zhihu.com/question/19739907)
+4. [在线英语词典哪个比较好？ - 知乎](https://www.zhihu.com/question/19707759)
