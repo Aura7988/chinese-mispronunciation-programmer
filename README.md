@@ -56,7 +56,7 @@
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | /wɪtθ/       | /wɪdθ/               | \ˈwidth, ˈwitth\                         |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | /'juː'tjuːb/ | /'juː'tjuːb/         |                                          |
 
-注：美音KK音标和英音DJ音标主要来自有道词典和欧路词典，美音韦氏音标来自Merriam Webster。
+注：美音KK音标和英音DJ音标主要来自有道词典和欧路词典，美音韦氏音标来自Merriam Webster。发音暂时使用有道词典美音。
 
 ## 补充
 
