@@ -24,6 +24,7 @@
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | /dɑk/                               | /dɒk/                                | \ˈdäk\                                   |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2) | /fəˈsɑd/                            | /fəˈsɑːd/                            | \fə-ˈsäd\                                |
 | fcitx[♞](https://fcitx-im.org/wiki/Fcitx) | /ˈfaɪtɪks/                          | /ˈfaɪtɪks/                           |                                          |
+| Fedora [🔊](https://www.merriam-webster.com/dictionary/fedora?pronunciation&lang=en_us&dir=f&file=fedora01) [♞](https://en.wikipedia.org/wiki/Fedora_(operating_system)) | /fɪˈdɔrə/                           | /fɪˈdɔ:rə/                           | \fi-ˈdȯr-ə\                             |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | /ɡɪt/                               | /ɡɪt/                                | \ˈgit\                                   |
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) [♞](https://www.gnu.org/) | /ɡnu/                               | /ɡnu:/                               |                                          |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) [♞](https://en.wikipedia.org/wiki/Graphical_user_interface) | /ˈɡui/                              | /ˈɡu:i:/                             |                                          |
