@@ -93,10 +93,11 @@
 1. [Merriam-Webster](https://www.merriam-webster.com/)
 2. [Cambridge Dictionary](http://dictionary.cambridge.org/)
 3. [Collins Dictionary](https://www.collinsdictionary.com/)
-4. [Vocabulary.com](https://www.vocabulary.com/dictionary/)
-5. [有道词典](http://dict.youdao.com/)
-6. [海词词典](http://dict.cn/)
-7. [欧路词典](https://dict.eudic.net/)
+4. [Oxford Dictionary](https://en.oxforddictionaries.com/)
+5. [Vocabulary.com](https://www.vocabulary.com/dictionary/)
+6. [有道词典](http://dict.youdao.com/)
+7. [海词词典](http://dict.cn/)
+8. [欧路词典](https://dict.eudic.net/)
 
 ## 参考
 
