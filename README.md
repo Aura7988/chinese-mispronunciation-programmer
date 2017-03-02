@@ -54,6 +54,7 @@
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | /ˈkwɪri/                            | /ˈkwɪərɪ/                            | \ˈkwir-ē, ˈkwer-\                        |
 | resolve[🔊](http://dict.youdao.com/dictvoice?audio=resolve&type=2) | /rɪˈzɑlv/                           | /rɪˈzɒlv/                            | \ri-ˈzälv, -ˈzȯlv *also* -ˈzäv *or* -ˈzȯv\ |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | /ˈrɛtənə/                           | /ˈretɪnə/                            | \ˈre-tə-nə, ˈret-nə\                     |
+| Rust [🔊](https://www.merriam-webster.com/dictionary/rust?pronunciation&lang=en_us&dir=r&file=rust0001) | /rʌst/                              | /rʌst/                               | \ˈrəst\                                  |
 | San Jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=2) | /sænhoˈze/                          | /sænhəuˈzeɪ/                         | \ˌsan-(h)ō-ˈzā\                          |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | /səˈfɑrɪ/                           | /səˈfɑːrɪ/                           | \sə-ˈfär-ē, -ˈfa-rē\                     |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=2) | /skim/                              | /skiːm/                              | \ˈskēm\                                  |
