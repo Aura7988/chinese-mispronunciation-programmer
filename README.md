@@ -61,7 +61,7 @@
 | variable [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=2) | /ˈvɛrɪəbl/                          | /ˈveərɪəb(ə)l/                       | \ˈver-ē-ə-bəl\                           |
 | Visio [♞](https://en.wikipedia.org/wiki/Microsoft_Visio) | /ˈvɪzɪo/                            | /ˈvɪzɪəʊ/                            |                                          |
 | Vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) [♞](https://vuejs.org/v2/guide/) | /vˈju/                              | /vˈju:/                              |                                          |
-| width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | /wɪtθ/                              | /wɪdθ/                               | \ˈwidth, ˈwitth\                         |
+| width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | /wɪtθ, wɪdθ/                        | /wɪtθ, wɪtθ/                         | \ˈwitth, ˈwidth\                         |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | /ˈjuˈtjub/                          | /ˈjuːˈtjuːb/                         |                                          |
 
 
