@@ -6,12 +6,12 @@
 | 单词                                       | 美音KK音标                              | 英音DJ音标                               | 美音韦氏音标                                   |
 | ---------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | /ˈæksɛs/                            | /ˈækses/                             | \ˈak-ˌses *also* ik-ˈses\                |
-| AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) [♞](https://en.wikipedia.org/wiki/Ajax_(programming)) | /ˈeˌdʒæks/                          | /ˈeɪˌdʒæks/                          | \ˈā-ˌjaks\                               |
+| AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) [💡](https://en.wikipedia.org/wiki/Ajax_(programming)) | /ˈeˌdʒæks/                          | /ˈeɪˌdʒæks/                          | \ˈā-ˌjaks\                               |
 | Amazon [🔊](https://www.merriam-webster.com/dictionary/amazon?pronunciation&lang=en_us&dir=a&file=amazon01) | /ˈæməˌzɑn/                          | /ˈæməzən/                            | \ˈa-mə-ˌzän, -zən\                       |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | /ˈæŋɡjəlɚ/                          | /ˈæŋgjʊlə/                           | \ˈaŋ-gyə-lər\                            |
-| Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) [♞](https://en.wikipedia.org/wiki/Apache_HTTP_Server) | /əˈpætʃi/                           | /əˈpætʃi:/                           | \ə-ˈpa-chē\                              |
+| Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) [💡](https://en.wikipedia.org/wiki/Apache_HTTP_Server) | /əˈpætʃi/                           | /əˈpætʃi:/                           | \ə-ˈpa-chē\                              |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | /æp/                                | /æp/                                 | \ˈap\                                    |
-| Arch(Linux) [🔊](https://www.merriam-webster.com/dictionary/arch?pronunciation&lang=en_us&dir=a&file=arch0001) [♞](https://en.wikipedia.org/wiki/Arch_Linux) | /ɑrtʃ/                              | /ɑːrtʃ/                              | \ˈärch\                                  |
+| Arch(Linux) [🔊](https://www.merriam-webster.com/dictionary/arch?pronunciation&lang=en_us&dir=a&file=arch0001) [💡](https://en.wikipedia.org/wiki/Arch_Linux) | /ɑrtʃ/                              | /ɑːrtʃ/                              | \ˈärch\                                  |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | /ˈɑrkaɪv/                           | /ˈɑːkaɪv/                            | \ˈär-ˌkīv\                               |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | /əˈre/                              | /əˈreɪ/                              | \ə-ˈrā\                                  |
 | ASCII [🔊](https://www.merriam-webster.com/dictionary/ASCII) | /ˈæski, ˈæˌski/                     | /ˈæski:, ˈæˌski:/                    | \ˈas-(ˌ)kē\                              |
@@ -19,22 +19,22 @@
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2) | /ˈæʒɚ/                              | /ˈæʒə/                               | \ˈa-zhər\                                |
 | babel[🔊](https://www.merriam-webster.com/dictionary/Babel?pronunciation&lang=en_us&dir=b&file=babel002) | /ˈbebəl/                            | /ˈbeibəl/                            | \ˈbā-bəl, ˈba-\                          |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | /kæʃ/                               | /kæʃ/                                | \ˈkash\                                  |
-| Clojure [♞](https://en.wikipedia.org/wiki/Clojure) | /'kloʒɚ/                            | /'kləʊʒə/                            |                                          |
+| Clojure [💡](https://en.wikipedia.org/wiki/Clojure) | /'kloʒɚ/                            | /'kləʊʒə/                            |                                          |
 | content [🔊](https://www.merriam-webster.com/dictionary/content?pronunciation&lang=en_us&dir=c&file=conten04) [🔊](https://www.merriam-webster.com/dictionary/content?pronunciation&lang=en_us&dir=c&file=conten03) | /ˈkɑntɛnt/, /kənˈtɛnt/              | /ˈkɒntent/, /kənˈtent/               | \ˈkän-ˌtent\目录，内容  \kən-ˈtent\满意的        |
 | daemon [🔊](https://www.merriam-webster.com/dictionary/demon?pronunciation&lang=en_us&dir=d&file=demon001) | /ˈdimən/                            | /ˈdiːmən/                            | \ˈdē-mən\                                |
-| Debian [♞](https://en.wikipedia.org/wiki/Debian) | /ˈdɛbɪən/                           | /ˈdɛbɪən/                            | Deb Ian 两个人名                             |
-| deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) [♞](https://en.wikipedia.org/wiki/Double-ended_queue) | /dɛk/                               | /dek/                                |                                          |
+| Debian [💡](https://en.wikipedia.org/wiki/Debian) | /ˈdɛbɪən/                           | /ˈdɛbɪən/                            | Deb Ian 两个人名                             |
+| deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) [💡](https://en.wikipedia.org/wiki/Double-ended_queue) | /dɛk/                               | /dek/                                |                                          |
 | digest [🔊](https://www.merriam-webster.com/dictionary/digest?pronunciation&lang=en_us&dir=d&file=digest01) [🔊](https://www.merriam-webster.com/dictionary/digest?pronunciation&lang=en_us&dir=d&file=digest02) | /ˈdaɪdʒɛst/, /daɪˈdʒɛst, dɪˈdʒɛst/  | /ˈdaɪdʒest/, /daɪˈdʒest, dɪˈdʒest/   | \ˈdī-ˌjest\文摘  \dī-ˈjest, də-\消化         |
-| Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) [♞](https://en.wikipedia.org/wiki/Django_(web_framework)) | /ˈdʒæŋɡo/                           | /ˈdʒæŋɡəʊ/                           |                                          |
+| Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) [💡](https://en.wikipedia.org/wiki/Django_(web_framework)) | /ˈdʒæŋɡo/                           | /ˈdʒæŋɡəʊ/                           |                                          |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | /dɑk/                               | /dɒk/                                | \ˈdäk\                                   |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2) | /fəˈsɑd/                            | /fəˈsɑːd/                            | \fə-ˈsäd\                                |
-| fcitx[♞](https://fcitx-im.org/wiki/Fcitx) | /ˈfaɪtɪks/                          | /ˈfaɪtɪks/                           |                                          |
-| Fedora [🔊](https://www.merriam-webster.com/dictionary/fedora?pronunciation&lang=en_us&dir=f&file=fedora01) [♞](https://en.wikipedia.org/wiki/Fedora_(operating_system)) | /fɪˈdɔrə/                           | /fɪˈdɔ:rə/                           | \fi-ˈdȯr-ə\                             |
+| fcitx[💡](https://fcitx-im.org/wiki/Fcitx) | /ˈfaɪtɪks/                          | /ˈfaɪtɪks/                           |                                          |
+| Fedora [🔊](https://www.merriam-webster.com/dictionary/fedora?pronunciation&lang=en_us&dir=f&file=fedora01) [💡](https://en.wikipedia.org/wiki/Fedora_(operating_system)) | /fɪˈdɔrə/                           | /fɪˈdɔ:rə/                           | \fi-ˈdȯr-ə\                             |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | /ɡɪt/                               | /ɡɪt/                                | \ˈgit\                                   |
-| GNOME [♞](https://en.wikipedia.org/wiki/GNOME) | /ɡnom, nom/                         | /ɡnəʊm, nəʊm/                        |                                          |
-| GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) [♞](https://www.gnu.org/) | /ɡnu/                               | /ɡnu:/                               |                                          |
-| GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) [♞](https://en.wikipedia.org/wiki/Graphical_user_interface) | /ˈɡui/                              | /ˈɡu:i:/                             |                                          |
-| Haskell [♞](https://en.wikipedia.org/wiki/Haskell_(programming_language)) | /ˈhæskəl/                           | /ˈhæskəl/                            |                                          |
+| GNOME [💡](https://en.wikipedia.org/wiki/GNOME) | /ɡnom, nom/                         | /ɡnəʊm, nəʊm/                        |                                          |
+| GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) [💡](https://www.gnu.org/) | /ɡnu/                               | /ɡnu:/                               |                                          |
+| GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) [💡](https://en.wikipedia.org/wiki/Graphical_user_interface) | /ˈɡui/                              | /ˈɡu:i:/                             |                                          |
+| Haskell [💡](https://en.wikipedia.org/wiki/Haskell_(programming_language)) | /ˈhæskəl/                           | /ˈhæskəl/                            |                                          |
 | height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=2) | /haɪt/                              | /haɪt/                               | \ˈhīt, ÷ˈhītth\                          |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | /ˈhɪdn/                             | /ˈhɪdn/                              | \ˈhi-dən\                                |
 | image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | /ˈɪmɪdʒ/                            | /ˈɪmɪdʒ/                             | \ˈi-mij\                                 |
@@ -42,15 +42,15 @@
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | /ˈɪʃu/                              | /ˈɪʃuː/                              | \ˈi-(ˌ)shü, *chiefly Southern* ˈi-shə, *chiefly British* ˈis-(ˌ)yü\ |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | /ˈdʒɑvə/                            | /ˈdʒɑːvə/                            | \ˈja-və, ˈjä-, -vē\                      |
 | jpg/jpeg [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | /ˈdʒeˌpɛg/                          | /ˈdʒeɪˌpeɡ/                          | \ˈjā-ˌpeg\                               |
-| json [♞](https://en.wikipedia.org/wiki/JSON) | /ˈdʒesən/                           | /ˈdʒeɪsən/                           |                                          |
-| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) [♞](https://en.wikipedia.org/wiki/Linux) | /ˈlɪnəks/ /ˈlaɪnəks/                | /ˈlɪnʌks/, /ˈlaɪnʌks/                |                                          |
+| json [💡](https://en.wikipedia.org/wiki/JSON) | /ˈdʒesən/                           | /ˈdʒeɪsən/                           |                                          |
+| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) [💡](https://en.wikipedia.org/wiki/Linux) | /ˈlɪnəks/ /ˈlaɪnəks/                | /ˈlɪnʌks/, /ˈlaɪnʌks/                |                                          |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | /men/                               | /meɪn/                               | \ˈmān\                                   |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | /ˈmɑrdʒən/                          | /ˈmɑːdʒɪn/                           | \ˈmär-jən\                               |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | /ˈmevən/                            | /ˈmeɪv(ə)n/                          | \ˈmā-vən\                                |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2) | /ˈmɑdʒul/                           | /ˈmɒdjuːl/                           | \ˈmä-(ˌ)jül\                             |
-| Nginx [♞](https://en.wikipedia.org/wiki/Nginx) | Engine X                            | Engine X                             |                                          |
+| Nginx [💡](https://en.wikipedia.org/wiki/Nginx) | Engine X                            | Engine X                             |                                          |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | /nʌl/                               | /nʌl/                                | \ˈnəl\                                   |
-| openSUSE [♞](https://en.wikipedia.org/wiki/OpenSUSE) | /ˌopənˈsuzə/                        | /ˌəʊpənˈsuːzə/                       |                                          |
+| openSUSE [💡](https://en.wikipedia.org/wiki/OpenSUSE) | /ˌopənˈsuzə/                        | /ˌəʊpənˈsuːzə/                       |                                          |
 | OS X                                     | OS ten                              | OS ten                               |                                          |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | /pəˈræmɪtɚ/                         | / pəˈræmɪtə/                         | \pə-ˈram-ə-tər\                          |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | / ˈpʌtɪ/                            | / ˈpʌtɪ/                             | \ˈpə-tē\                                 |
@@ -61,15 +61,15 @@
 | San Jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=2) | /sænhoˈze/                          | /sænhəuˈzeɪ/                         | \ˌsan-(h)ō-ˈzā\                          |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | /səˈfɑrɪ/                           | /səˈfɑːrɪ/                           | \sə-ˈfär-ē, -ˈfa-rē\                     |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=2) | /skim/                              | /skiːm/                              | \ˈskēm\                                  |
-| SQL [♞](https://en.wikipedia.org/wiki/SQL) | /ˈɛs kju ˈɛl/, /ˈsikwəl/            | /ˈɛs kjuː ˈɛl/, /ˈsiːkwəl/           |                                          |
-| SQLite [♞](https://en.wikipedia.org/wiki/SQLite) | /ˌɛs kju ɛl ˈlaɪt/, /ˈsiːkwəl.laɪt/ | /ˌɛs kjuː ɛl ˈlaɪt/, /ˈsiːkwəl.laɪt/ |                                          |
-| sudo [♞](https://en.wikipedia.org/wiki/Sudo) | /ˈsudu/  /ˈsudo/                    | /ˈsuːduː/, /ˈsuːdəʊ/                 |                                          |
+| SQL [💡](https://en.wikipedia.org/wiki/SQL) | /ˈɛs kju ˈɛl/, /ˈsikwəl/            | /ˈɛs kjuː ˈɛl/, /ˈsiːkwəl/           |                                          |
+| SQLite [💡](https://en.wikipedia.org/wiki/SQLite) | /ˌɛs kju ɛl ˈlaɪt/, /ˈsiːkwəl.laɪt/ | /ˌɛs kjuː ɛl ˈlaɪt/, /ˈsiːkwəl.laɪt/ |                                          |
+| sudo [💡](https://en.wikipedia.org/wiki/Sudo) | /ˈsudu/  /ˈsudo/                    | /ˈsuːduː/, /ˈsuːdəʊ/                 |                                          |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | /swit/                              | /swiːt/                              | \ˈswēt, *2d is also* ˈsüt\               |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | /ˈtɪpɪkəl/                          | /ˈtɪpɪk(ə)l/                         | \ˈti-pi-kəl\                             |
-| Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) [♞](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) | /ʊˈbʊntʊ/                           | /ʊˈbʊntʊ/                            |                                          |
+| Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) [💡](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) | /ʊˈbʊntʊ/                           | /ʊˈbʊntʊ/                            |                                          |
 | variable [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=2) | /ˈvɛrɪəbl/                          | /ˈveərɪəb(ə)l/                       | \ˈver-ē-ə-bəl\                           |
-| Visio [♞](https://en.wikipedia.org/wiki/Microsoft_Visio) | /ˈvɪzɪo/                            | /ˈvɪzɪəʊ/                            |                                          |
-| Vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) [♞](https://vuejs.org/v2/guide/) | /vˈju/                              | /vˈju:/                              |                                          |
+| Visio [💡](https://en.wikipedia.org/wiki/Microsoft_Visio) | /ˈvɪzɪo/                            | /ˈvɪzɪəʊ/                            |                                          |
+| Vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) [💡](https://vuejs.org/v2/guide/) | /vˈju/                              | /vˈju:/                              |                                          |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | /wɪtθ, wɪdθ/                        | /wɪtθ, wɪtθ/                         | \ˈwitth, ˈwidth\                         |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | /ˈjuˈtjub/                          | /ˈjuːˈtjuːb/                         |                                          |
 
@@ -85,7 +85,7 @@
 
 注5：专有词的发音出处优先采用官方来源或维基百科。若是维基百科，其参考条目会给出来源页面。
 
-注6：点击🔊可以听发音，点击♞可以查看发音来源页面。
+注6：点击🔊可以听发音，点击💡可以查看发音来源页面。
 
 ## 补充
 
