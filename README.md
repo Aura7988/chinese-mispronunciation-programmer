@@ -14,6 +14,7 @@
 | Arch(Linux) [🔊](https://www.merriam-webster.com/dictionary/arch?pronunciation&lang=en_us&dir=a&file=arch0001) [♞](https://en.wikipedia.org/wiki/Arch_Linux) | /ɑrtʃ/                              | /ɑːrtʃ/                              | \ˈärch\                                  |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | /ˈɑrkaɪv/                           | /ˈɑːkaɪv/                            | \ˈär-ˌkīv\                               |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | /əˈre/                              | /əˈreɪ/                              | \ə-ˈrā\                                  |
+| ASCII [🔊](https://www.merriam-webster.com/dictionary/ASCII) | /ˈæski, ˈæˌski/                     | /ˈæski:, ˈæˌski:/                    | \ˈas-(ˌ)kē\                              |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | /ˈævətɑr/                           | /ˈævətɑː/                            | \ˈa-və-ˌtär\                             |
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2) | /ˈæʒɚ/                              | /ˈæʒə/                               | \ˈa-zhər\                                |
 | babel[🔊](https://www.merriam-webster.com/dictionary/Babel?pronunciation&lang=en_us&dir=b&file=babel002) | /ˈbebəl/                            | /ˈbeibəl/                            | \ˈbā-bəl, ˈba-\                          |
