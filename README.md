@@ -36,6 +36,7 @@
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | /ˈɪʃu/                              | /ˈɪʃuː/                              | \ˈi-(ˌ)shü, *chiefly Southern* ˈi-shə, *chiefly British* ˈis-(ˌ)yü\ |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | /ˈdʒɑvə/                            | /ˈdʒɑːvə/                            | \ˈja-və, ˈjä-, -vē\                      |
 | jpg/jpeg [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | /ˈdʒeˌpɛg/                          | /ˈdʒeɪˌpeɡ/                          | \ˈjā-ˌpeg\                               |
+| json [♞](https://en.wikipedia.org/wiki/JSON) | /ˈdʒesən/                           | /ˈdʒeɪsən/                           |                                          |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) [♞](https://en.wikipedia.org/wiki/Linux) | /ˈlɪnəks/ /ˈlaɪnəks/                | /ˈlɪnʌks/, /ˈlaɪnʌks/                |                                          |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | /men/                               | /meɪn/                               | \ˈmān\                                   |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | /ˈmɑrdʒən/                          | /ˈmɑːdʒɪn/                           | \ˈmär-jən\                               |
