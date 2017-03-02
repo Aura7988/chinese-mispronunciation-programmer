@@ -7,6 +7,7 @@
 | ---------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | /ˈæksɛs/                            | /ˈækses/                             | \ˈak-ˌses *also* ik-ˈses\                |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) [♞](https://en.wikipedia.org/wiki/Ajax_(programming)) | /ˈeˌdʒæks/                          | /ˈeɪˌdʒæks/                          | \ˈā-ˌjaks\                               |
+| Amazon [🔊](https://www.merriam-webster.com/dictionary/amazon?pronunciation&lang=en_us&dir=a&file=amazon01) | /ˈæməˌzɑn/                          | /ˈæməzən/                            | \ˈa-mə-ˌzän, -zən\                       |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | /ˈæŋɡjəlɚ/                          | /ˈæŋgjʊlə/                           | \ˈaŋ-gyə-lər\                            |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) [♞](https://en.wikipedia.org/wiki/Apache_HTTP_Server) | /əˈpætʃi/                           | /əˈpætʃi:/                           | \ə-ˈpa-chē\                              |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | /æp/                                | /æp/                                 | \ˈap\                                    |
