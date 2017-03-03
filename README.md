@@ -55,6 +55,7 @@
 | OS X                                     | OS ten                              | OS ten                               |                                          |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | /pəˈræmɪtɚ/                         | / pəˈræmɪtə/                         | \pə-ˈram-ə-tər\                          |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | / ˈpʌtɪ/                            | / ˈpʌtɪ/                             | \ˈpə-tē\                                 |
+| Python [🔊](https://www.merriam-webster.com/dictionary/python?pronunciation&lang=en_us&dir=p&file=python01) | /ˈpaɪˌθɑn/                          | /ˈpaɪθən/                            | \ˈpī-ˌthän, -thən\                       |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | /ˈkwɪri/                            | /ˈkwɪərɪ/                            | \ˈkwir-ē, ˈkwer-\                        |
 | resolve[🔊](http://dict.youdao.com/dictvoice?audio=resolve&type=2) | /rɪˈzɑlv/                           | /rɪˈzɒlv/                            | \ri-ˈzälv, -ˈzȯlv *also* -ˈzäv *or* -ˈzȯv\ |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | /ˈrɛtənə/                           | /ˈretɪnə/                            | \ˈre-tə-nə, ˈret-nə\                     |
