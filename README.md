@@ -32,6 +32,7 @@
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2) | /fəˈsɑd/                            | /fəˈsɑːd/                            | \fə-ˈsäd\                                |
 | fcitx[💡](https://fcitx-im.org/wiki/Fcitx) | /ˈfaɪtɪks/                          | /ˈfaɪtɪks/                           |                                          |
 | Fedora [🔊](https://www.merriam-webster.com/dictionary/fedora?pronunciation&lang=en_us&dir=f&file=fedora01) [💡](https://en.wikipedia.org/wiki/Fedora_(operating_system)) | /fɪˈdɔrə/                           | /fɪˈdɔ:rə/                           | \fi-ˈdȯr-ə\                             |
+| GIF [🔊](https://www.merriam-webster.com/dictionary/GIF?pronunciation&lang=en_us&dir=g&file=gif0001v) | /ɡɪf, dʒɪf/                         | /ɡɪf, dʒɪf/                          | \ˈgif, ˈjif\                             |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | /ɡɪt/                               | /ɡɪt/                                | \ˈgit\                                   |
 | GNOME [💡](https://en.wikipedia.org/wiki/GNOME) | /ɡnom, nom/                         | /ɡnəʊm, nəʊm/                        |                                          |
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) [💡](https://www.gnu.org/) | /ɡnu/                               | /ɡnu:/                               |                                          |
