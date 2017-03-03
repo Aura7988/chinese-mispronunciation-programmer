@@ -39,6 +39,7 @@
 | GNOME [💡](https://en.wikipedia.org/wiki/GNOME) | /ɡnom, nom/                         | /ɡnəʊm, nəʊm/                        |                                          |
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) [💡](https://www.gnu.org/) | /ɡnu/                               | /ɡnu:/                               |                                          |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) [💡](https://en.wikipedia.org/wiki/Graphical_user_interface) | /ˈɡui/                              | /ˈɡu:i:/                             |                                          |
+| hash [🔊](https://www.merriam-webster.com/dictionary/hash?pronunciation&lang=en_us&dir=h&file=hash0001) | /hæʃ/                               | /hæʃ/                                | \ˈhash\                                  |
 | Haskell [💡](https://en.wikipedia.org/wiki/Haskell_(programming_language)) | /ˈhæskəl/                           | /ˈhæskəl/                            |                                          |
 | height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=2) | /haɪt/                              | /haɪt/                               | \ˈhīt, ÷ˈhītth\                          |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | /ˈhɪdn/                             | /ˈhɪdn/                              | \ˈhi-dən\                                |
