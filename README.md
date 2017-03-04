@@ -16,6 +16,7 @@
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | /ˈɑrkaɪv/                           | /ˈɑːkaɪv/                            | \ˈär-ˌkīv\                               |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | /əˈre/                              | /əˈreɪ/                              | \ə-ˈrā\                                  |
 | ASCII [🔊](https://www.merriam-webster.com/dictionary/ASCII) | /ˈæski, ˈæˌski/                     | /ˈæski:, ˈæˌski:/                    | \ˈas-(ˌ)kē\                              |
+| aspect [🔊](https://www.merriam-webster.com/dictionary/aspect?pronunciation&lang=en_us&dir=a&file=aspect01) | /'æspɛkt/                           | /'æspekt/                            | \ˈas-ˌpekt\                              |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | /ˈævətɑr/                           | /ˈævətɑː/                            | \ˈa-və-ˌtär\                             |
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2) | /ˈæʒɚ/                              | /ˈæʒə/                               | \ˈa-zhər\                                |
 | babel[🔊](https://www.merriam-webster.com/dictionary/Babel?pronunciation&lang=en_us&dir=b&file=babel002) | /ˈbebəl/                            | /ˈbeibəl/                            | \ˈbā-bəl, ˈba-\                          |
@@ -24,6 +25,7 @@
 | char [🔊](http://dict.youdao.com/dictvoice?audio=char&type=2) | /tʃɑr/                              | /tʃɑː/                               | \ˈchär\                                  |
 | Clojure [💡](https://en.wikipedia.org/wiki/Clojure) | /'kloʒɚ/                            | /'kləʊʒə/                            |                                          |
 | content [🔊](https://www.merriam-webster.com/dictionary/content?pronunciation&lang=en_us&dir=c&file=conten04) [🔊](https://www.merriam-webster.com/dictionary/content?pronunciation&lang=en_us&dir=c&file=conten03) | /ˈkɑntɛnt/, /kənˈtɛnt/              | /ˈkɒntent/, /kənˈtent/               | \ˈkän-ˌtent\目录，内容  \kən-ˈtent\满意的        |
+| Coursera [💡](https://en.wikipedia.org/wiki/Coursera) | /kɚˈsɛrə/                           | /kərˈserə/                           |                                          |
 | ctrl [🔊](https://www.merriam-webster.com/dictionary/control?pronunciation&lang=en_us&dir=c&file=contro01) | /kənˈtrol/                          | /kən'trəʊl/                          | \kən-ˈtrōl\                              |
 | daemon [🔊](https://www.merriam-webster.com/dictionary/demon?pronunciation&lang=en_us&dir=d&file=demon001) | /ˈdimən/                            | /ˈdiːmən/                            | \ˈdē-mən\                                |
 | Debian [💡](https://en.wikipedia.org/wiki/Debian) | /ˈdɛbɪən/                           | /ˈdɛbɪən/                            | Deb Ian 两个人名                             |
@@ -61,6 +63,7 @@
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | /pəˈræmɪtɚ/                         | / pəˈræmɪtə/                         | \pə-ˈram-ə-tər\                          |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | / ˈpʌtɪ/                            | / ˈpʌtɪ/                             | \ˈpə-tē\                                 |
 | Python [🔊](https://www.merriam-webster.com/dictionary/python?pronunciation&lang=en_us&dir=p&file=python01) | /ˈpaɪˌθɑn/                          | /ˈpaɪθən/                            | \ˈpī-ˌthän, -thən\                       |
+| Quora [💡](https://www.quora.com/How-do-you-pronounce-Quora) | /ˈkwɔrə/                            | /ˈkwɔːrə/                            |                                          |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | /ˈkwɪri/                            | /ˈkwɪərɪ/                            | \ˈkwir-ē, ˈkwer-\                        |
 | resolve[🔊](http://dict.youdao.com/dictvoice?audio=resolve&type=2) | /rɪˈzɑlv/                           | /rɪˈzɒlv/                            | \ri-ˈzälv, -ˈzȯlv *also* -ˈzäv *or* -ˈzȯv\ |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | /ˈrɛtənə/                           | /ˈretɪnə/                            | \ˈre-tə-nə, ˈret-nə\                     |
