@@ -82,6 +82,8 @@
 | Vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) [💡](https://vuejs.org/v2/guide/) | /vˈju/                              | /vˈju:/                              |                                          |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | /wɪtθ, wɪdθ/                        | /wɪtθ, wɪtθ/                         | \ˈwitth, ˈwidth\                         |
 | Xen [💡](https://en.wikipedia.org/wiki/Xen) | /ˈzɛn/                              | /ˈzen/                               |                                          |
+| yaourt [💡](https://www.collinsdictionary.com/dictionary/english/yaourt) | /ˈjɑot/                             | /ˈjɑːəʊt/                            |                                          |
+| yarn [🔊](https://www.merriam-webster.com/dictionary/yarn?pronunciation&lang=en_us&dir=y&file=yarn0001) | /jɑrn/                              | /jɑːn/                               | \ˈyärn\                                  |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | /ˈjuˈtjub/                          | /ˈjuːˈtjuːb/                         |                                          |
 
 
