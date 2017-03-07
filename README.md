@@ -53,6 +53,7 @@
 | jpg/jpeg [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | /ˈdʒeˌpɛg/                          | /ˈdʒeɪˌpeɡ/                          | \ˈjā-ˌpeg\                               |
 | json [💡](https://en.wikipedia.org/wiki/JSON) | /ˈdʒesən/                           | /ˈdʒeɪsən/                           |                                          |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) [💡](https://en.wikipedia.org/wiki/Linux) | /ˈlɪnəks/ /ˈlaɪnəks/                | /ˈlɪnʌks/, /ˈlaɪnʌks/                |                                          |
+| locale [🔊](https://www.merriam-webster.com/dictionary/locale?pronunciation&lang=en_us&dir=l&file=locale01) | /loˈkæl/                            | /ləʊˈkɑːl/                           | \lō-ˈkal\                                |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | /men/                               | /meɪn/                               | \ˈmān\                                   |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | /ˈmɑrdʒən/                          | /ˈmɑːdʒɪn/                           | \ˈmär-jən\                               |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | /ˈmevən/                            | /ˈmeɪv(ə)n/                          | \ˈmā-vən\                                |
