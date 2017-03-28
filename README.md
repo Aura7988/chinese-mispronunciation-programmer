@@ -1,6 +1,4 @@
 # chinese-mispronunciation-programmer
-[]([(.{2,20})] \1)
-
 ## 易误发音词
 
 | 单词                                       | 美音KK音标                              | 英音DJ音标                               | 美音韦氏音标                                   |
