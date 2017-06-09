@@ -8,6 +8,7 @@
 | alias [🔊](https://www.merriam-webster.com/dictionary/alias?pronunciation&lang=en_us&dir=a&file=alias001) | /ˈelɪəs/                            | /ˈeɪlɪəs/                            | \ˈā-lē-əs, ˈāl-yəs\                      |
 | alist [🔊](https://www.merriam-webster.com/dictionary/alist?pronunciation&lang=en_us&dir=a&file=alist01w) | /ˈelɪst/                            | /ˈeɪlɪst/                            | \ˈā-ˌlist\                               |
 | Amazon [🔊](https://www.merriam-webster.com/dictionary/amazon?pronunciation&lang=en_us&dir=a&file=amazon01) | /ˈæməˌzɑn/                          | /ˈæməzən/                            | \ˈa-mə-ˌzän, -zən\                       |
+| analogy[🔊](https://www.merriam-webster.com/dictionary/analogy?pronunciation&lang=en_us&dir=a&file=analog09) | /ə'nælədʒi/                         | /ə'nælədʒi:/                         | \ə-ˈna-lə-jē\                            |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | /ˈæŋɡjəlɚ/                          | /ˈæŋgjʊlə/                           | \ˈaŋ-gyə-lər\                            |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) [💡](https://en.wikipedia.org/wiki/Apache_HTTP_Server) | /əˈpætʃi/                           | /əˈpætʃi:/                           | \ə-ˈpa-chē\                              |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | /æp/                                | /æp/                                 | \ˈap\                                    |
@@ -54,6 +55,7 @@
 | locale [🔊](https://www.merriam-webster.com/dictionary/locale?pronunciation&lang=en_us&dir=l&file=locale01) | /loˈkæl/                            | /ləʊˈkɑːl/                           | \lō-ˈkal\                                |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | /men/                               | /meɪn/                               | \ˈmān\                                   |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | /ˈmɑrdʒən/                          | /ˈmɑːdʒɪn/                           | \ˈmär-jən\                               |
+| matrix[🔊](https://www.merriam-webster.com/dictionary/matrix?pronunciation&lang=en_us&dir=m&file=matrix01) | /'metrɪks/                          | /'meɪtrɪks/                          | \ˈmā-triks\                              |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | /ˈmevən/                            | /ˈmeɪv(ə)n/                          | \ˈmā-vən\                                |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2) | /ˈmɑdʒul/                           | /ˈmɒdjuːl/                           | \ˈmä-(ˌ)jül\                             |
 | Nginx [💡](https://en.wikipedia.org/wiki/Nginx) | Engine X                            | Engine X                             |                                          |
@@ -65,6 +67,7 @@
 | Python [🔊](https://www.merriam-webster.com/dictionary/python?pronunciation&lang=en_us&dir=p&file=python01) | /ˈpaɪˌθɑn/                          | /ˈpaɪθən/                            | \ˈpī-ˌthän, -thən\                       |
 | Quora [💡](https://www.quora.com/How-do-you-pronounce-Quora) | /ˈkwɔrə/                            | /ˈkwɔːrə/                            |                                          |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | /ˈkwɪri/                            | /ˈkwɪərɪ/                            | \ˈkwir-ē, ˈkwer-\                        |
+| regex[💡](https://english.stackexchange.com/questions/94371/what-is-the-correct-pronunciation-of-regex) | /ˈrɛdʒˌɛks, ˈrɛɡˌɛks/               | /ˈrɛdʒˌɛks, ˈrɛɡˌɛks/                |                                          |
 | resolve[🔊](http://dict.youdao.com/dictvoice?audio=resolve&type=2) | /rɪˈzɑlv/                           | /rɪˈzɒlv/                            | \ri-ˈzälv, -ˈzȯlv *also* -ˈzäv *or* -ˈzȯv\ |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | /ˈrɛtənə/                           | /ˈretɪnə/                            | \ˈre-tə-nə, ˈret-nə\                     |
 | Rust [🔊](https://www.merriam-webster.com/dictionary/rust?pronunciation&lang=en_us&dir=r&file=rust0001) | /rʌst/                              | /rʌst/                               | \ˈrəst\                                  |
