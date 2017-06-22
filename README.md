@@ -51,7 +51,7 @@
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | /ˈdʒɑvə/                            | /ˈdʒɑːvə/                            | \ˈja-və, ˈjä-, -vē\                      |
 | jpg/jpeg [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | /ˈdʒeˌpɛg/                          | /ˈdʒeɪˌpeɡ/                          | \ˈjā-ˌpeg\                               |
 | json [💡](https://en.wikipedia.org/wiki/JSON) | /ˈdʒesən/                           | /ˈdʒeɪsən/                           |                                          |
-| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) [💡](https://en.wikipedia.org/wiki/Linux) | /ˈlɪnəks/ /ˈlaɪnəks/                | /ˈlɪnʌks/, /ˈlaɪnʌks/                |                                          |
+| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) [💡](https://en.wikipedia.org/wiki/Linux) | /ˈlɪnəks/, /ˈlaɪnəks/               | /ˈlɪnʌks/, /ˈlaɪnʌks/                |                                          |
 | locale [🔊](https://www.merriam-webster.com/dictionary/locale?pronunciation&lang=en_us&dir=l&file=locale01) | /loˈkæl/                            | /ləʊˈkɑːl/                           | \lō-ˈkal\                                |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | /men/                               | /meɪn/                               | \ˈmān\                                   |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | /ˈmɑrdʒən/                          | /ˈmɑːdʒɪn/                           | \ˈmär-jən\                               |
@@ -63,6 +63,7 @@
 | openSUSE [💡](https://en.wikipedia.org/wiki/OpenSUSE) | /ˌopənˈsuzə/                        | /ˌəʊpənˈsuːzə/                       |                                          |
 | OS X                                     | OS ten                              | OS ten                               |                                          |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | /pəˈræmɪtɚ/                         | / pəˈræmɪtə/                         | \pə-ˈram-ə-tər\                          |
+| Pascal [🔊](https://www.merriam-webster.com/dictionary/pascal?pronunciation&lang=en_us&dir=p&file=pascal02) | /pæˈskæl, pɑˈskɑl/                  | /pæˈskæl, pɑːˈskɑːl/                 | \pa-ˈskal, pä-ˈskäl\                     |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | / ˈpʌtɪ/                            | / ˈpʌtɪ/                             | \ˈpə-tē\                                 |
 | Python [🔊](https://www.merriam-webster.com/dictionary/python?pronunciation&lang=en_us&dir=p&file=python01) | /ˈpaɪˌθɑn/                          | /ˈpaɪθən/                            | \ˈpī-ˌthän, -thən\                       |
 | Quora [💡](https://www.quora.com/How-do-you-pronounce-Quora) | /ˈkwɔrə/                            | /ˈkwɔːrə/                            |                                          |
