@@ -4,6 +4,7 @@
 | 单词                                       | 美音KK音标                              | 英音DJ音标                               | 美音韦氏音标                                   |
 | ---------------------------------------- | ----------------------------------- | ------------------------------------ | ---------------------------------------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | /ˈæksɛs/                            | /ˈækses/                             | \ˈak-ˌses *also* ik-ˈses\                |
+| agile [🔊](https://www.merriam-webster.com/dictionary/agile?pronunciation&lang=en_us&dir=a&file=agile002) | /'ædʒaɪl/                           | /'ædʒl/                              | \ˈa-jəl, -ˌjī(-ə)l\                      |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) [💡](https://en.wikipedia.org/wiki/Ajax_(programming)) | /ˈeˌdʒæks/                          | /ˈeɪˌdʒæks/                          | \ˈā-ˌjaks\                               |
 | alias [🔊](https://www.merriam-webster.com/dictionary/alias?pronunciation&lang=en_us&dir=a&file=alias001) | /ˈelɪəs/                            | /ˈeɪlɪəs/                            | \ˈā-lē-əs, ˈāl-yəs\                      |
 | alist [🔊](https://www.merriam-webster.com/dictionary/alist?pronunciation&lang=en_us&dir=a&file=alist01w) | /ˈelɪst/                            | /ˈeɪlɪst/                            | \ˈā-ˌlist\                               |
@@ -28,7 +29,7 @@
 | Coursera [💡](https://en.wikipedia.org/wiki/Coursera) | /kɚˈsɛrə/                           | /kərˈserə/                           |                                          |
 | ctrl [🔊](https://www.merriam-webster.com/dictionary/control?pronunciation&lang=en_us&dir=c&file=contro01) | /kənˈtrol/                          | /kənˈtrəʊl/                          | \kən-ˈtrōl\                              |
 | daemon [🔊](https://www.merriam-webster.com/dictionary/demon?pronunciation&lang=en_us&dir=d&file=demon001) | /ˈdimən/                            | /ˈdiːmən/                            | \ˈdē-mən\                                |
-| Debian [💡](https://en.wikipedia.org/wiki/Debian) | /ˈdɛbɪən/                           | /ˈdɛbɪən/                            | Deb Ian 两个人名                             |
+| Debian[^1][💡](https://en.wikipedia.org/wiki/Debian) | /ˈdɛbɪən/                           | /ˈdɛbɪən/                            |                                          |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) [💡](https://en.wikipedia.org/wiki/Double-ended_queue) | /dɛk/                               | /dek/                                |                                          |
 | digest [🔊](https://www.merriam-webster.com/dictionary/digest?pronunciation&lang=en_us&dir=d&file=digest01) [🔊](https://www.merriam-webster.com/dictionary/digest?pronunciation&lang=en_us&dir=d&file=digest02) | /ˈdaɪdʒɛst/, /daɪˈdʒɛst, dɪˈdʒɛst/  | /ˈdaɪdʒest/, /daɪˈdʒest, dɪˈdʒest/   | \ˈdī-ˌjest\文摘  \dī-ˈjest, də-\消化         |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) [💡](https://en.wikipedia.org/wiki/Django_(web_framework)) | /ˈdʒæŋɡo/                           | /ˈdʒæŋɡəʊ/                           |                                          |
@@ -66,6 +67,7 @@
 | Pascal [🔊](https://www.merriam-webster.com/dictionary/pascal?pronunciation&lang=en_us&dir=p&file=pascal02) | /pæˈskæl, pɑˈskɑl/                  | /pæˈskæl, pɑːˈskɑːl/                 | \pa-ˈskal, pä-ˈskäl\                     |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | / ˈpʌtɪ/                            | / ˈpʌtɪ/                             | \ˈpə-tē\                                 |
 | Python [🔊](https://www.merriam-webster.com/dictionary/python?pronunciation&lang=en_us&dir=p&file=python01) | /ˈpaɪˌθɑn/                          | /ˈpaɪθən/                            | \ˈpī-ˌthän, -thən\                       |
+| Qt[^2][🔊](https://www.merriam-webster.com/dictionary/cute?pronunciation&lang=en_us&dir=c&file=cute0001) [💡](https://en.wikipedia.org/wiki/Qt_(software)) | /kjut/                              | /kjuːt/                              | \ˈkyüt\                                  |
 | Quora [💡](https://www.quora.com/How-do-you-pronounce-Quora) | /ˈkwɔrə/                            | /ˈkwɔːrə/                            |                                          |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | /ˈkwɪri/                            | /ˈkwɪərɪ/                            | \ˈkwir-ē, ˈkwer-\                        |
 | regex[💡](https://english.stackexchange.com/questions/94371/what-is-the-correct-pronunciation-of-regex) | /ˈrɛdʒˌɛks, ˈrɛɡˌɛks/               | /ˈrɛdʒˌɛks, ˈrɛɡˌɛks/                |                                          |
@@ -92,24 +94,27 @@
 
 
 
-注1：美音KK音标和英音DJ音标主要来自有道词典和欧路词典，美音韦氏音标来自Merriam Webster。其中，英音DJ音标采用新标准。
+注1：点击🔊可以听发音，点击💡可以查看发音来源页面。
 
-注2：发音暂时使用有道词典美音，部分已替换为Merriam-Webster的美式发音。
+注2：美音KK音标和英音DJ音标主要来自有道词典和欧路词典，美音韦氏音标来自Merriam Webster。其中，英音DJ音标采用新标准。
 
-注3：所有音标中，重音符使用 `ˈ`，次重音符使用 `ˌ`。
+注3：发音主要为Merriam-Webster的美式发音。
 
-注4：表中只给出程序员常用的释义对应的读音，其他释义下可能会有其他读音，不一一列出。
+注4：所有音标中，重音符使用 `ˈ`，次重音符使用 `ˌ`。
 
 注5：专有词的发音出处优先采用官方来源或维基百科。若是维基百科，其参考条目会给出来源页面。
 
-注6：点击🔊可以听发音，点击💡可以查看发音来源页面。
+注6：表中只给出程序员常用的释义对应的读音，其他释义下可能会有其他读音，不一一列出。
+
+[^1]: Deb 和 Ian 分别是两个人的名字。
+[^2]: 同 cute。
 
 ## 补充
 
 * 美国人更多使用韦氏词典。韦氏词典使用重拼法为单词划分音节，并辅以韦氏音标标注发音。
 * DJ音标多用来标注英音，KK音标多用来标注美音。
 
-## 有争议词
+## 争议词
 
 * href：Hypertext REFerence
 
