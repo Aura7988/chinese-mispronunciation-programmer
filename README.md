@@ -29,7 +29,7 @@
 | Coursera [💡](https://en.wikipedia.org/wiki/Coursera) | /kɚˈsɛrə/                           | /kərˈserə/                           |                                          |
 | ctrl [🔊](https://www.merriam-webster.com/dictionary/control?pronunciation&lang=en_us&dir=c&file=contro01) | /kənˈtrol/                          | /kənˈtrəʊl/                          | \kən-ˈtrōl\                              |
 | daemon [🔊](https://www.merriam-webster.com/dictionary/demon?pronunciation&lang=en_us&dir=d&file=demon001) | /ˈdimən/                            | /ˈdiːmən/                            | \ˈdē-mən\                                |
-| Debian[^1][💡](https://en.wikipedia.org/wiki/Debian) | /ˈdɛbɪən/                           | /ˈdɛbɪən/                            |                                          |
+| Debian [💡](https://en.wikipedia.org/wiki/Debian) | /ˈdɛbɪən/                           | /ˈdɛbɪən/                            | Deb 和 Ian 分是两个人名                         |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) [💡](https://en.wikipedia.org/wiki/Double-ended_queue) | /dɛk/                               | /dek/                                |                                          |
 | digest [🔊](https://www.merriam-webster.com/dictionary/digest?pronunciation&lang=en_us&dir=d&file=digest01) [🔊](https://www.merriam-webster.com/dictionary/digest?pronunciation&lang=en_us&dir=d&file=digest02) | /ˈdaɪdʒɛst/, /daɪˈdʒɛst, dɪˈdʒɛst/  | /ˈdaɪdʒest/, /daɪˈdʒest, dɪˈdʒest/   | \ˈdī-ˌjest\文摘  \dī-ˈjest, də-\消化         |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) [💡](https://en.wikipedia.org/wiki/Django_(web_framework)) | /ˈdʒæŋɡo/                           | /ˈdʒæŋɡəʊ/                           |                                          |
@@ -67,7 +67,7 @@
 | Pascal [🔊](https://www.merriam-webster.com/dictionary/pascal?pronunciation&lang=en_us&dir=p&file=pascal02) | /pæˈskæl, pɑˈskɑl/                  | /pæˈskæl, pɑːˈskɑːl/                 | \pa-ˈskal, pä-ˈskäl\                     |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | / ˈpʌtɪ/                            | / ˈpʌtɪ/                             | \ˈpə-tē\                                 |
 | Python [🔊](https://www.merriam-webster.com/dictionary/python?pronunciation&lang=en_us&dir=p&file=python01) | /ˈpaɪˌθɑn/                          | /ˈpaɪθən/                            | \ˈpī-ˌthän, -thən\                       |
-| Qt[^2][🔊](https://www.merriam-webster.com/dictionary/cute?pronunciation&lang=en_us&dir=c&file=cute0001) [💡](https://en.wikipedia.org/wiki/Qt_(software)) | /kjut/                              | /kjuːt/                              | \ˈkyüt\                                  |
+| Qt[^2][🔊](https://www.merriam-webster.com/dictionary/cute?pronunciation&lang=en_us&dir=c&file=cute0001) [💡](https://en.wikipedia.org/wiki/Qt_(software)) | /kjut/                              | /kjuːt/                              | \ˈkyüt\ 同 cute                           |
 | Quora [💡](https://www.quora.com/How-do-you-pronounce-Quora) | /ˈkwɔrə/                            | /ˈkwɔːrə/                            |                                          |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | /ˈkwɪri/                            | /ˈkwɪərɪ/                            | \ˈkwir-ē, ˈkwer-\                        |
 | regex[💡](https://english.stackexchange.com/questions/94371/what-is-the-correct-pronunciation-of-regex) | /ˈrɛdʒˌɛks, ˈrɛɡˌɛks/               | /ˈrɛdʒˌɛks, ˈrɛɡˌɛks/                |                                          |
@@ -105,9 +105,6 @@
 注5：专有词的发音出处优先采用官方来源或维基百科。若是维基百科，其参考条目会给出来源页面。
 
 注6：表中只给出程序员常用的释义对应的读音，其他释义下可能会有其他读音，不一一列出。
-
-[^1]: Deb 和 Ian 分别是两个人的名字。
-[^2]: 同 cute。
 
 ## 补充
 
